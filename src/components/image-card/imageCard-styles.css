@@ -11,7 +11,7 @@
         display: flex;  
         justify-content: center;  
         align-items: center;            
-        background-color: #2A3D5B;            
+        background-color: var(--primary);            
         width: 95%; 
         height: 2.5em; 
         margin-top: 1em; 
@@ -46,7 +46,7 @@
          border-radius: 10%;    
     }        
     .contSubtitulos { 
-        background-color: #2A3D5B;           
+        background-color: var(--primary);            
         padding: 0.2em 0.3em;            
         text-align: left;                    
         max-width: 100%; /* Establece el ancho máximo del contenedor */

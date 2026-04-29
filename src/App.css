@@ -13,8 +13,8 @@
   --title: #ffffff;
   --subtitle: #acaeae;
   --text:#bdf3f6;
-  --primary: #2A3D5B;/** para el header, footer y las tarjetas*/
-  --secondary: #40A5D4;/** para el body*/  
+  --primary: rgba(24, 57, 4, 0.824);;/** para el header, footer y las tarjetas*/
+  --secondary: rgba(113, 232, 39, 0.125);/** para el body*/  
   --vivid: #E414D6; /** para textos que resalten o elementos destacados */
   --light: #f0f0f0; /** para fondos claros y elementos secundarios */
   --dark: #1a1a1a; /** para textos oscuros y fondos contrastantes */
